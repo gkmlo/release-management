@@ -4,3 +4,4 @@ hihi2
 hihi3
 hihi-develop
 hihirelease
+hihihotfix
