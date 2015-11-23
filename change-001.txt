@@ -4,5 +4,6 @@ hihi2
 hihi3
 hihi-develop
 hihirelease
+hihihotfix-1.2.51.2
 hihihotfix
 hihi-release-with-hotfix
