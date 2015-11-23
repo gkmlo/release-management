@@ -3,4 +3,5 @@ hihi
 hihi2
 hihi3
 hihirelease
+hihihotfix-1.2.51.2
 hihihotfix
